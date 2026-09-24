@@ -1,3 +1,13 @@
+# Verkut fork of Acode
+
+Public fork of [Acode](https://github.com/deadlyjack/acode) (Foxdebug / [Acode-Foundation/Acode](https://github.com/Acode-Foundation/Acode)), the MIT-licensed Android code editor.
+
+**Verkut contribution:** pull-to-refresh on the file tree — swipe down in the sidebar file list to reload open folders.
+
+Upstream project, branding, and license remain with Foxdebug / Acode. This repo is not an official release.
+
+---
+
 # Acode - Code Editor for Android
 
 <p align="center">
