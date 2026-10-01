@@ -12,7 +12,7 @@
       "jdkDistro": "ms",
       "gradleVersion": "latest"
     },
-    "ghcr.io/nordcominc/devcontainer-features/android-sdk:1": {
+    "ghcr.io/nordcominc/devcontainer-features/android-sdk:2": {
       "platform": "35",
       "build_tools": "35.0.0"
     },
